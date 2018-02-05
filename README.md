@@ -1,6 +1,7 @@
 # Graduate Seminar
 Graduate Seminar on GIScience led by UT's Graduate Geography Students. 
 
+#### Testing out different header styles
 # Project Title
 
 One Paragraph of project description goes here
